@@ -1,5 +1,3 @@
-{-# LANGUAGE OverloadedStrings #-}
-
 import System.Exit (exitSuccess)
 import Network.Socket
 import System.IO
